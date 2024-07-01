@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.1">
+<file name="C:\Users\sikor\Documents\GitHub\2024_Team_028\3_rts\src\main\java\nl\rug\oop\rts\View\SideBar\ArmyPanel.java">
+<error line="22" column="5" severity="error" message="Method ArmyPanel length is 41 lines (max allowed is 40)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+</checkstyle>
